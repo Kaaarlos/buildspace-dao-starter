@@ -1,0 +1,6 @@
+SDK initialized by address: 0x8A70B4F8059339C4B0EfcC921bF0d778E1491335
+✅ Successfully deployed editionDrop contract, address: 0xeb251F0a5AfE5c807E667F304C08f25bCf4FA3F5
+
+
+ ERC-1155- en este contrato varias personas peden tener el mismo nft, debo buscar otro 
+en el que solo una persona pueda tener solo 1 y ajustarla al codigo
